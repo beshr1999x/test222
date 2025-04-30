@@ -1,0 +1,14 @@
+#: locale=en
+
+## Media
+
+### Title
+panorama_C983DB8A_862A_11F9_41DE_F61CEEB112E6.label = IMG_20250430_131100_302
+panorama_D7D6B8B2_862A_1F29_41BC_4E750671C11A.label = IMG_20250430_132840_741
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Untitled 1
